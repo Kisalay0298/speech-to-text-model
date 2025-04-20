@@ -25,13 +25,21 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/forensicwhisper.git
-   cd forensicwhisper
+   git clone https://github.com/Kisalay0298/speech-to-text-model.git
+   cd speech-to-text-model
+   pip install numpy librosa soundfile matplotlib torch openai-whisper scikit-learn
 
 ## 📁 Project Structure
 
-1. **Clone the repository**
-   .tree -L 1 -I "__pycache__"
+<pre>
+   . 
+   ├── testy.py 
+   ├── spectrogram.png 
+   ├── audio_report.txt 
+   ├── example_audio.mp3 
+   ├── requirements.txt 
+   └── README.md 
+</pre>
 
 
 
