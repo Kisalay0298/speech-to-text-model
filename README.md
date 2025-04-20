@@ -23,13 +23,20 @@
 ---
 
 
-## 📦 Installation
+## 🚀 Getting Started
 
-1. **Clone the repository**
+1. **📥 Clone the repository**
    ```bash
    git clone https://github.com/Kisalay0298/speech-to-text-model.git
    cd speech-to-text-model
+
+2. **📦 Install the requirements**
+   ```bash
    pip install -r requirements.txt
+
+3. **🎯 Run the code**
+   ```bash
+   python testy.py example_audio.mp3
 
 ## 📁 Project Structure
 
