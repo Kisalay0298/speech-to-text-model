@@ -1,0 +1,9 @@
+=== Forensic Audio Analysis Report ===
+Audio File: example_audio.mp3
+Duration: 34.51 seconds
+Sample Rate: 44100 Hz
+Adversarial Simulation: No
+Manipulation Detected: Yes
+
+=== Transcription ===
+ Hey everyone, I'm Kisole Komal, a full stack developer and AI enthusiast currently studying at Chandagar University in my last semester. I love building smart, interactive tech, whether it's a web app, an AI tool, or something experimental that solves a real world problem. I work mostly with React, Node.js, Python, and C, and I've also explored databases like MySQL and MongoDB. Over time, I've solved 800 coding problems online, which has really helped me sharpen my logic and think better.
