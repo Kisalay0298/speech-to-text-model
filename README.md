@@ -1,4 +1,4 @@
-# 🎙️ ForensicWhisper – Audio Forensics CLI Tool
+# 🎙️ text-to-speech-model – Audio Forensics CLI Tool
 
 **ForensicWhisper** is a Python-based CLI tool that performs forensic analysis on audio files. It detects adversarial noise, extracts audio features, generates spectrograms, and performs transcription using OpenAI's Whisper model. Ideal for digital forensics, audio integrity validation, and research purposes.
 
@@ -25,7 +25,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kisalay0298/speech-to-text-model.git
+   git clone https://github.com/Kisalay0298/text-to-speech-model.git
    cd speech-to-text-model
    pip install numpy librosa soundfile matplotlib torch openai-whisper scikit-learn
 
